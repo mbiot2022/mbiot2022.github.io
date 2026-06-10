@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-## About MeJuridica
+## About Me
 
 I am **Maurício Brigato**, M.Sc. in Electrical Engineering from 
 **UNESP — Universidade Estadual Paulista "Júlio de Mesquita Filho"**, 
-Faculty of Engineering of Sorocaba (FESJ ICTS), São Paulo, Brazil.
+Faculty of Engineering of São João da Boa Vista (FESJ ICTS), 
+São Paulo, Brazil.
 
 My research focuses on **Wireless Sensor Networks (WSN)**, 
 **Internet of Things (IoT)**, and **Energy Efficiency**, 
@@ -37,12 +38,12 @@ resource-constrained sensor nodes.
 
 🎓 **M.Sc. in Electrical Engineering** (2024)  
 UNESP — Universidade Estadual Paulista "Júlio de Mesquita Filho"  
-FESJ ICTS — Faculty of Engineering of Sorocaba  
-Sorocaba, SP, Brazil  
+FESJ ICTS — Faculty of Engineering of São João da Boa Vista  
+São João da Boa Vista, SP, Brazil  
 
 📌 **Dissertation:**  
-*Energy Efficiency Simulation in Wireless Sensor Networks 
-using K-Means Clustering and Friis Transmission Equation*
+*Simulation of an IoT Smart Sensor Network with Energy Efficiency 
+Control based on the K-Means Method*
 
 ---
 
@@ -50,29 +51,4 @@ using K-Means Clustering and Friis Transmission Equation*
 
 ### 🖥️ [Brigato's WSN Simulator](https://brigatos-wsn-simulator.netlify.app)
 
-Interactive web-based simulator for **Wireless Sensor Networks (WSN)** 
-developed during my Master's research. The tool implements:
-
-- **K-Means clustering** with Minkowski distance for sensor grouping
-- **Friis Transmission Equation** for received power calculation
-- **Energy Efficiency metric:** EE = 1 / Σ(P_sensor→CH + P_CH→Sink)
-- Configurable parameters: frequency, transmission power, antenna gain,
-  number of sensors, simulation area, cluster sizes, and K-Means seed
-
-🔗 **Try it live:** [brigatos-wsn-simulator.netlify.app](https://brigatos-wsn-simulator.netlify.app)
-
----
-
-## Academic Profiles
-
-- 📄 [Lattes CNPq](http://lattes.cnpq.br/2569638138381641)
-- 💻 [GitHub](https://github.com/mbiot2022)
-- 🌐 [WSN Simulator](https://brigatos-wsn-simulator.netlify.app)
-
----
-
-## Contact
-
-📍 Sorocaba, SP — Brazil  
-🏛️ UNESP — Universidade Estadual Paulista  
-🔗 [Lattes CNPq](http://lattes.cnpq.br/2569638138381641)
+Interactive web-based simulator for
