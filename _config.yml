@@ -35,9 +35,9 @@ analytics:
 
 # Author
 author:
-  name             : "Maurício Brigato"
-  avatar           : "profile.jpeg"
-  bio              : "M.Sc. in Electrical Engineering — UNESP FESJ ICTS. 
+name             : "Maurício Brigato"
+avatar           : "https://mbiot2022.github.io/images/profile.jpeg"
+bio              : "M.Sc. in Electrical Engineering — UNESP FESJ ICTS. 
                       Researcher in Wireless Sensor Networks (WSN), 
                       IoT and Energy Efficiency. 
                       Developer of Brigato's WSN Simulator."
