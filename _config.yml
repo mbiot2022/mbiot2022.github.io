@@ -33,16 +33,12 @@ og_image                 :
 analytics:
   provider               : false
 
-# Author
 author:
-  name             : "Maurício Brigato"
+  name             : "Mauricio Brigato"
   avatar           : "https://www.gravatar.com/avatar/8d38e12fa5c111e4fff7d392b80cac29"
-  bio              : "M.Sc. in Electrical Engineering — UNESP FESJ ICTS.
-                      Researcher in Wireless Sensor Networks (WSN),
-                      IoT and Energy Efficiency.
-                      Developer of Brigato's WSN Simulator."
-  location         : "Araraquara, SP — Brasil"
-  employer         : "UNESP — Universidade Estadual Paulista"
+  bio              : "M.Sc. in Electrical Engineering - UNESP FESJ ICTS. Researcher in Wireless Sensor Networks (WSN), IoT and Energy Efficiency. Developer of Brigato's WSN Simulator."
+  location         : "Araraquara, SP - Brasil"
+  employer         : "UNESP - Universidade Estadual Paulista"
   pubmed           :
   googlescholar    :
   email            :
@@ -60,7 +56,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : 
+  linkedin         :
   orcid            :
   pinterest        :
   soundcloud       :
@@ -73,7 +69,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
 # Site Footer
 footer:
   links:
