@@ -23,7 +23,7 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-facebook:
+facebook:Authentication
   username               :
   app_id                 :
   publisher              :
@@ -36,7 +36,7 @@ analytics:
 # Author
 author:
   name             : "Maurício Brigato"
-  avatar           : "images/profile.jpeg"
+  avatar           : "/images/profile.jpeg"
   bio              : "M.Sc. in Electrical Engineering — UNESP FESJ ICTS. 
                       Researcher in Wireless Sensor Networks (WSN), 
                       IoT and Energy Efficiency. 
